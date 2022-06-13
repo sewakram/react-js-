@@ -1,0 +1,66 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "cname": "A",
+      "description": "Bla Bla Bla",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "cname": "B",
+      "description": "Bla Bla Bla",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "cname": "UU",
+      "description": "hello guys bla bla bla",
+      "image": "https://picsum.photos/200/300",
+      "id": 3
+    }
+  ],
+  "enquiry": [
+    {
+      "id": 1,
+      "cid": 1,
+      "name": "sewak",
+      "description": "Bla Bla Bla",
+      "mobile_no": "9021093507"
+    },
+    {
+      "id": 2,
+      "cid": 3,
+      "name": "sewak",
+      "description": "Bla Bla Bla",
+      "mobile_no": "9021093507"
+    },
+    {
+      "id": 3,
+      "cid": 1,
+      "name": "sewak",
+      "description": "Bla Bla Bla",
+      "mobile_no": "9021093507"
+    },
+    {
+      "id": 4,
+      "cid": 1,
+      "name": "sewak",
+      "description": "Bla Bla Bla",
+      "mobile_no": "9021093507"
+    },
+    {
+      "cid": "2",
+      "name": "test name",
+      "mobile_no": "1234567890",
+      "description": "holla",
+      "id": 5
+    },
+    {
+      "cid": "1",
+      "name": "tesa",
+      "mobile_no": "8878987712",
+      "description": "test data",
+      "id": 6
+    }
+  ]
+}
